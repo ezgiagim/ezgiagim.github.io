@@ -1,0 +1,52 @@
+.profile-pic{
+max-width: 100%;
+
+}
+.body-index{
+	
+	background-image:url(../img/olric.jpg); 
+	background-repeat:no-repeat;
+	background-size:cover; 
+
+
+}
+section{
+padding-bottom: 500px;
+padding-top: 500px;
+
+}
+.about {  
+background-image: url(../img/blue.jfif);
+background-repeat:no-repeat;
+background-size:cover; 
+
+}
+
+h3{
+
+	color:white;
+	max-width: 100%;
+	font-family: 'IM Fell DW Pica SC', serif;
+
+}
+
+.quote-frame{
+border-width: 2px;
+border-color: white;
+border-style: solid;
+border-radius: 300px;
+padding: 50px;
+margin-top: 10px;
+
+}
+
+.img-width{
+width: 100%;
+
+}
+.travelling{
+background-color: black;	
+}
+ .color-change{
+ color:black;
+ }
